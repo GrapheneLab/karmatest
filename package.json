@@ -1,0 +1,16 @@
+{
+  "name": "karmatest",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "info": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "karmajs-ws": "^0.1.2",
+    "request": "^2.83.0",
+    "request-promise-native": "^1.0.5"
+  }
+}
